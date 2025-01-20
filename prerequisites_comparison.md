@@ -15,9 +15,9 @@
 ||
 |                                                                  **Statistics:**|
 ||
-|- Random variables                                                                             |-Random variables,
-|- Mean and median                                                                              |-  Mean and medians,
-|- Variance, autocovariance, and autocorrelation                                                |- Variance and Standard deviation
+|- Random variables                                                                             |-[Random variables](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/1-Random-Variables-Mean-Median-Variance.ipynb),
+|- Mean and median                                                                              |-  [Mean and medians](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/1-Random-Variables-Mean-Median-Variance.ipynb),
+|- Variance, autocovariance, and autocorrelation                                                |-  [Variance and Standard deviation](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/1-Random-Variables-Mean-Median-Variance.ipynb)
 |- Variance of a sum of random variables|
 |- Probability, conditional probability, and Bayes’ Theorem                                     |-Probability, Bayes’ Theorem,
 |- Statistical independence, law of total probability, and chain rule of probability

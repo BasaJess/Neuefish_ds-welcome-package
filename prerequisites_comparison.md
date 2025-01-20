@@ -35,5 +35,5 @@
 |- Eigendecomposition of matrices
 |- Singular value decomposition of matrices
 |- Hyperplanes                                                                                  |-Hyperplanes
-|                                                                                              |-Derivatives
+|                                                                                              |-[Derivatives](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-1-new/ab-2-1/v/derivative-as-a-concept)
 ||

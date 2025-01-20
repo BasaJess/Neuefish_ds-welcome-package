@@ -10,7 +10,7 @@
 |- Reading from files                                                                           |-[Read/write to and from files](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/6_Read_Write_Files.ipynb)
 |- Dictionaries, Lists, Sets, Arrays                                                            |-[Dictionaries, Lists, Arrays](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/3_Python_Lists_Sets_Dictionaries.ipynb)
 |- Basics of Object-Oriented Programming                                                        |-[Object-oriented programming](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/5_Intro_to_OOP.ipynb)
-|                                                                                               |-Basics of shell
+|                                                                                               |-[Basics of shell](https://swcarpentry.github.io/shell-novice/01-intro.html)
 |                                                                                               |-Basics of github|
 ||
 |                                                                  **Statistics:**|

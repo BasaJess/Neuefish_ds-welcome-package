@@ -21,8 +21,8 @@
 |- Variance of a sum of random variables|
 |- Probability, conditional probability, and Bayes’ Theorem                                     |-[Probability, Bayes’ Theorem](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/2-Probability.ipynb),
 |- Statistical independence, law of total probability, and chain rule of probability
-|- Probability distribution and density function                                                 |-  [Probability distribution](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/2-Probability.ipynb
-|- Hypothesis testing                                                                           |-Hypothesis testing
+|- Probability distribution and density function                                                 |-  [Probability distribution](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/2-Probability.ipynb)
+|- Hypothesis testing                                                                           |-[Hypothesis testing](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/3-Hypothesis-Testing.ipynb)
 |- Law of large numbers                                                                         |-Law of large numbers
 ||
 |**Mathematics:**|

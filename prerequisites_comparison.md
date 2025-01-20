@@ -31,7 +31,7 @@
 |- Vectors and matrices                                                                         |-Vectors and matrices
 |- Linear combinations of vectors                                                               |-Linear combinations of vectors
 |- Matrix multiplication                                                                        |-[Matrix multiplication](https://builtin.com/data-science/dot-product-matrix)
-|- Matrix inversion                                                                             |-[Matrix transposing](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix) and Matrix inversion
+|- Matrix inversion                                                                             |-[Matrix transposing](https://www.khanacademy.org/math/linear-algebra/matrix-transformations/matrix-transpose/v/linear-algebra-transpose-of-a-matrix) and [Matrix inversion](https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses/v/inverse-matrix-part-1)
 |- Eigendecomposition of matrices
 |- Singular value decomposition of matrices
 |- Hyperplanes                                                                                  |-Hyperplanes

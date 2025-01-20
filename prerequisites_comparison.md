@@ -19,9 +19,9 @@
 |- Mean and median                                                                              |-  [Mean and medians](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/1-Random-Variables-Mean-Median-Variance.ipynb),
 |- Variance, autocovariance, and autocorrelation                                                |-  [Variance and Standard deviation](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/1-Random-Variables-Mean-Median-Variance.ipynb)
 |- Variance of a sum of random variables|
-|- Probability, conditional probability, and Bayes’ Theorem                                     |-Probability, Bayes’ Theorem,
+|- Probability, conditional probability, and Bayes’ Theorem                                     |-[Probability, Bayes’ Theorem](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/2-Probability.ipynb),
 |- Statistical independence, law of total probability, and chain rule of probability
-|- Probability distribution and density function                                                 |-  Probability distribution
+|- Probability distribution and density function                                                 |-  [Probability distribution](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/statistics/2-Probability.ipynb
 |- Hypothesis testing                                                                           |-Hypothesis testing
 |- Law of large numbers                                                                         |-Law of large numbers
 ||

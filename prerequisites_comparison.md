@@ -6,7 +6,7 @@
 |- If/then/else statements and for loops                                                        |-[If/then/else and for loops](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/2_Python_If_Else_Loops.ipynb)
 |- How to write a function, function arguments, etc.                                            |-[How to write a function, function arguments and so on](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/4_Python_Functions.ipynb)
 |- Different data types in Python                                                             |
-|- Difference between types of parentheses|
+|- [Difference between types of parentheses](https://www.youtube.com/@edlitera)|
 |- Reading from files                                                                           |-[Read/write to and from files](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/6_Read_Write_Files.ipynb)
 |- Dictionaries, Lists, Sets, Arrays                                                            |-[Dictionaries, Lists, Arrays](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/3_Python_Lists_Sets_Dictionaries.ipynb)
 |- Basics of Object-Oriented Programming                                                        |-[Object-oriented programming](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/5_Intro_to_OOP.ipynb)

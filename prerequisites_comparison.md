@@ -30,7 +30,7 @@
 |                                                                                               |-[Exponential and Logarithms](https://www.youtube.com/watch?v=oqHJ5xQYTEI)
 |- Vectors and matrices                                                                         |-Vectors and matrices
 |- Linear combinations of vectors                                                               |-Linear combinations of vectors
-|- Matrix multiplication                                                                        |-Matrix multiplication
+|- Matrix multiplication                                                                        |-[Matrix multiplication](https://builtin.com/data-science/dot-product-matrix)
 |- Matrix inversion                                                                             |-Matrix transposing and Matrix inversion
 |- Eigendecomposition of matrices
 |- Singular value decomposition of matrices

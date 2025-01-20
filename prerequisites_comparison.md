@@ -3,7 +3,7 @@
 |                                                                  **Programming:**|
 | | |
 |- Variables                                                                                    |-[Variables and types](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/1_Python_Variables_Types.ipynb)
-|- If/then/else statements and for loops                                                        |-If/then/else and for loops
+|- If/then/else statements and for loops                                                        |-[If/then/else and for loops](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/2_Python_If_Else_Loops.ipynb)
 |- How to write a function, function arguments, etc.                                            |-How to write a function, function arguments and so on
 |- Different data types in Python                                                             |
 |- Difference between types of parentheses|

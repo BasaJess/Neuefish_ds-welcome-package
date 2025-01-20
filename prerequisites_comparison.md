@@ -27,7 +27,7 @@
 ||
 |**Mathematics:**|
 ||
-|                                                                                               |-Exponential and Logarithms
+|                                                                                               |-[Exponential and Logarithms](https://www.youtube.com/watch?v=oqHJ5xQYTEI)
 |- Vectors and matrices                                                                         |-Vectors and matrices
 |- Linear combinations of vectors                                                               |-Linear combinations of vectors
 |- Matrix multiplication                                                                        |-Matrix multiplication

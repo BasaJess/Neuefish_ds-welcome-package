@@ -8,7 +8,7 @@
 |- Different data types in Python                                                             |
 |- Difference between types of parentheses|
 |- Reading from files                                                                           |-Read/write to and from files
-|- Dictionaries, Lists, Sets, Arrays                                                            |-Dictionaries, Lists, Arrays
+|- Dictionaries, Lists, Sets, Arrays                                                            |-[Dictionaries, Lists, Arrays](https://github.com/BasaJess/Neuefish_ds-welcome-package/blob/main/programming/3_Python_Lists_Sets_Dictionaries.ipynb)
 |- Basics of Object-Oriented Programming                                                        |-Object-oriented programming
 |                                                                                               |-Basics of shell
 |                                                                                               |-Basics of github|
